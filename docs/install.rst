@@ -29,6 +29,19 @@ Create database user and database
 Install Nginx
 '''''''''''''
 
+ ::
+
+ 	sudo apt-get install nginx
+
+We will come back and configure this in a moment.
+
+Install Utilities
+'''''''''''''''''
+
+ ::
+
+ 	sudo apt-get install git
+ 	sudo apt-get install virtualenvwrapper
 
 
 Contents:
