@@ -5,3 +5,4 @@
 _build
 __pycache__
 secrets.json
+fabsecrets.py
